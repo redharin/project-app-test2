@@ -8,7 +8,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule-application</packaging>
 
-	<name>app-test-2-cicd</name>
+	<name>app-test-2-cicd</name>	
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -45,6 +45,9 @@
             <classifier>mule-plugin</classifier>
         </dependency>
 	</dependencies>
+	
+	
+	
 
 	<repositories>
           <repository>
